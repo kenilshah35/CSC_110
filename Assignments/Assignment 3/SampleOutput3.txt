@@ -1,0 +1,37 @@
+ C O U R S E   G R A D E   C A L C U L A T O R
+    Purpose: Calculates the weighted grade for a student in a course
+       Inputs: Assignment, Lab and Exam grades
+Passing Grade for Final ==>  50
+
+Input Assignment (maximum 10):
+  #1==>9
+  #2==>10
+  #3==>5
+  #4==>67
+  Incorrect input, try again:
+  #4==>6.7
+  #5==>2
+  #6==>0
+  #7==>0
+
+Input Lab (maximum 1):
+  #1==>1
+  #2==>1
+  #3==>1
+  #4==>1
+  #5==>1
+  #6==>0.5
+  #7==>0
+  #8==>0
+  #9==>0
+  #10==>0
+
+Input Midterm (maximum 100):
+  #1==>59.5
+  #2==>62
+
+Input Final Exam (maximum 100):
+  #1==>45.5
+
+
+ Grade: 49.00 F

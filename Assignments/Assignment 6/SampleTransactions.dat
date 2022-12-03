@@ -1,0 +1,20 @@
+4	Jones,John
+Personal	32145	3584.57
+Business 	34668	146.52
+Business	34669	22537.42
+Charitable	21356	5424.65
+32145	charge		45.43
+32145	withdrawl	87.54
+32145	interest	2.34
+34668	charge		1633.42
+34668	deposit		38.57
+34668	deposit		16.52
+34668	withdrawl	23.42
+21356	interest	4.65
+34669	charge		31.45
+34669	interest	1.50
+21356	deposit		38.57
+21356	interest	2.34
+34668	deposit		16.52
+32145	deposit		38.57
+32145	charge		45.43
